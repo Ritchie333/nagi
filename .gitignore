@@ -13,3 +13,5 @@ config.log
 bin/nagi
 bin/x86
 bin/x64
+launch.json
+tasks.json
